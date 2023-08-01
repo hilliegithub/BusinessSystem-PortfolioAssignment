@@ -16,20 +16,20 @@ export const projects = [
       link: "https://github.com/hilliegithub/BikazonEcommerceRubyOnRails",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "IntroToRails",
+      subtitle: "Ruby on Rails Application",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://jsbootcamp.com",
+        "The goal of this project was to create a Ruby on Rails application using data collected from one or more data sources.",
+      image: "./introtorails.png",
+      link: "https://github.com/hilliegithub/IntroToRailsProj",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "Customer Relation Manager",
+      subtitle: "Agile Full Stack",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
+        "This project was used to demostrate the use the active admin gem to manage backend related data etc.",
+      image: "./CRM.png",
+      link: "https://github.com/hilliegithub/CustomerRelationManager",
     },
   ];
 
